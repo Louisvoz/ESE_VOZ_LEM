@@ -80,10 +80,7 @@ Cela permettra de gérer plusieurs tâches simultanément
 <h2>🔵 2. Le GPIO Expander et le VU-Mètre</h2>
 
 <h3>2.1 Configuration</h3>
-
-<p><em>(Section à compléter selon les instructions du TP.)</em><br>
-Dans cette partie, on configure le <strong>GPIO Expander</strong> pour piloter le 
-<strong>VU-mètre</strong>, en lien avec les entrées/sorties analogiques.
+En regardant le shield , on voit que l'on utilise une GPIO Expander MCP23S17 de chez Microship possédant 16 sorties supplémentaire et communicant en I2C/SPI avec notre STM32
 </p>
 
 <hr>
