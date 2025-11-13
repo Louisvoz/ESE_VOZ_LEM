@@ -67,7 +67,7 @@ printf("Bonjour Antonio y Louis\r\n");
 
 <hr>
 
-<h3>Étape 5 — Activation de FreeRTOS</h3>
+<h3>Étape 5 — Activatioqn de FreeRTOS</h3>
 
 <p>
 Activez <strong>FreeRTOS</strong> via <strong>CMSIS V1</strong>.<br>
